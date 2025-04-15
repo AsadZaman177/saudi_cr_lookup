@@ -10,6 +10,7 @@ An app for ERPNEXT to fetch any Saudi Company Data By CR Number
 	```
 	bench get-app https://github.com/AsadZaman177/saudi_cr_lookup.git
 	bench --site frappe.test install-app saudi_cr_lookup
+	bench --site frappe.test migrate
 	```
 
 
