@@ -1,0 +1,90 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"dhCn0yzBkL\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Saudi CR Lookup</span>\",\"col\":12}},{\"id\":\"9YrUaeF1hX\",\"type\":\"card\",\"data\":{\"card_name\":\"Configure API settings\",\"col\":4}},{\"id\":\"RT1G0YHGnw\",\"type\":\"card\",\"data\":{\"card_name\":\"Saudi National CR Lookup\",\"col\":4}},{\"id\":\"mtisU5fNt9\",\"type\":\"card\",\"data\":{\"card_name\":\"Saudi Company National Address\",\"col\":4}}]",
+ "creation": "2025-04-14 11:21:07.167239",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "search",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Saudi CR Lookup",
+ "links": [
+  {
+   "description": "Configure API settings for Saudi CR Lookup",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Configure API settings",
+   "link_count": 1,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Saudi CR Lookup Settings",
+   "link_count": 0,
+   "link_to": "Saudi CR Lookup Settings",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "description": "Get All information of Saudi Company by providing National CR.",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Saudi National CR Lookup",
+   "link_count": 1,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Saudi Company",
+   "link_count": 0,
+   "link_to": "Saudi Company",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "description": "Get the Address of a Sauid Company by CR",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Saudi Company National Address",
+   "link_count": 1,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Saudi Company National Address",
+   "link_count": 0,
+   "link_to": "Saudi Company National Address",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2025-04-14 12:36:26.543391",
+ "modified_by": "Administrator",
+ "module": "Saudi CR Lookup",
+ "name": "Saudi CR Lookup",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 36.0,
+ "shortcuts": [],
+ "title": "Saudi CR Lookup"
+}

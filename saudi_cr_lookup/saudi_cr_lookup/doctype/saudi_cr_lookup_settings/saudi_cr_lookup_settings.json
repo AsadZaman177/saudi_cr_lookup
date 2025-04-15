@@ -1,0 +1,64 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-04-10 16:34:21.439301",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "saudi_cr_lookup_settings_section",
+  "consumer_id",
+  "consumer_secret",
+  "is_sandbox"
+ ],
+ "fields": [
+  {
+   "fieldname": "saudi_cr_lookup_settings_section",
+   "fieldtype": "Section Break",
+   "label": "Saudi CR Lookup Settings"
+  },
+  {
+   "description": "Get the consumer key from wathq.sa",
+   "fieldname": "consumer_id",
+   "fieldtype": "Data",
+   "label": "Consumer ID"
+  },
+  {
+   "description": "Get the consumer secret from wathq.sa",
+   "fieldname": "consumer_secret",
+   "fieldtype": "Data",
+   "label": "Consumer Secret"
+  },
+  {
+   "default": "0",
+   "fieldname": "is_sandbox",
+   "fieldtype": "Check",
+   "label": "Is sandbox",
+   "options": "0"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "issingle": 1,
+ "links": [],
+ "modified": "2025-04-14 12:41:13.648064",
+ "modified_by": "Administrator",
+ "module": "Saudi CR Lookup",
+ "name": "Saudi CR Lookup Settings",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

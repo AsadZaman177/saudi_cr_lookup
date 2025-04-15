@@ -1,0 +1,241 @@
+{
+ "actions": [],
+ "autoname": "format:{company_title}",
+ "creation": "2025-04-10 16:12:35.829155",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "section_break_9ofe",
+  "amended_from",
+  "cr_number",
+  "column_break_ske9",
+  "fetch_address",
+  "section_break_py6j",
+  "company_title",
+  "column_break_qr7a",
+  "company_status",
+  "section_break_rn0c",
+  "address_1",
+  "latitude",
+  "building_number",
+  "district",
+  "city",
+  "post_code",
+  "region_name",
+  "is_primary_address",
+  "restriction",
+  "column_break_e16c",
+  "address_2",
+  "longitude",
+  "street",
+  "district_id",
+  "city_id",
+  "additional_number",
+  "region_id",
+  "unit_number",
+  "pk_address_id",
+  "status"
+ ],
+ "fields": [
+  {
+   "fieldname": "section_break_9ofe",
+   "fieldtype": "Section Break",
+   "label": "Saudi Company National Address"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Saudi Company National Address",
+   "print_hide": 1,
+   "read_only": 1,
+   "search_index": 1
+  },
+  {
+   "fieldname": "cr_number",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "CR Number",
+   "no_copy": 1,
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_ske9",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "fetch_address",
+   "fieldtype": "Button",
+   "label": "Fetch Address"
+  },
+  {
+   "fieldname": "section_break_py6j",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "company_title",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Company Title",
+   "no_copy": 1,
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "section_break_rn0c",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "address_1",
+   "fieldtype": "Data",
+   "label": "Address 1",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_e16c",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "address_2",
+   "fieldtype": "Data",
+   "label": "Address 2",
+   "reqd": 1
+  },
+  {
+   "fieldname": "latitude",
+   "fieldtype": "Data",
+   "label": "Latitude"
+  },
+  {
+   "fieldname": "building_number",
+   "fieldtype": "Data",
+   "label": "Building Number"
+  },
+  {
+   "fieldname": "district",
+   "fieldtype": "Data",
+   "label": "District",
+   "reqd": 1
+  },
+  {
+   "fieldname": "city",
+   "fieldtype": "Data",
+   "label": "City",
+   "reqd": 1
+  },
+  {
+   "fieldname": "longitude",
+   "fieldtype": "Data",
+   "label": "Longitude"
+  },
+  {
+   "fieldname": "street",
+   "fieldtype": "Data",
+   "label": "Street",
+   "reqd": 1
+  },
+  {
+   "fieldname": "district_id",
+   "fieldtype": "Data",
+   "label": "District ID"
+  },
+  {
+   "fieldname": "city_id",
+   "fieldtype": "Data",
+   "label": "City ID "
+  },
+  {
+   "fieldname": "post_code",
+   "fieldtype": "Data",
+   "label": "Post Code",
+   "reqd": 1
+  },
+  {
+   "fieldname": "region_name",
+   "fieldtype": "Data",
+   "label": "Region Name",
+   "reqd": 1
+  },
+  {
+   "default": "0",
+   "fieldname": "is_primary_address",
+   "fieldtype": "Check",
+   "label": "Is Primary Address",
+   "options": "0"
+  },
+  {
+   "fieldname": "restriction",
+   "fieldtype": "Data",
+   "label": "Restriction"
+  },
+  {
+   "fieldname": "additional_number",
+   "fieldtype": "Data",
+   "label": "Additional Number"
+  },
+  {
+   "fieldname": "region_id",
+   "fieldtype": "Data",
+   "label": "Region ID"
+  },
+  {
+   "fieldname": "unit_number",
+   "fieldtype": "Data",
+   "label": "Unit Number",
+   "reqd": 1
+  },
+  {
+   "fieldname": "pk_address_id",
+   "fieldtype": "Data",
+   "label": "PK Address Id"
+  },
+  {
+   "fieldname": "company_status",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Company Status"
+  },
+  {
+   "fieldname": "column_break_qr7a",
+   "fieldtype": "Column Break"
+  },
+  {
+   "default": "Draft",
+   "fieldname": "status",
+   "fieldtype": "Data",
+   "label": "Status"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-04-15 09:58:44.809699",
+ "modified_by": "Administrator",
+ "module": "Saudi CR Lookup",
+ "name": "Saudi Company National Address",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "company_title"
+}
