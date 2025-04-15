@@ -1,0 +1,21 @@
+{
+ "action": "Create Entry",
+ "action_label": "Try Now",
+ "creation": "2025-04-15 15:36:57.530672",
+ "description": "Saudi Company helps you search Saudi Arabian companies by CR National Number.\n\n***Get full data of a Saudi Company, including:***\n\n**Company Status** \u2013 Check if the company is active, suspended, deleted, or in liquidation.\n\n***Contact Details** \u2013 Retrieve phone number, mobile, email, and website.\n\n***Company Information** \u2013 Access name, type, duration, capital, headquarters, and license issuer.\n\n***E-Commerce Details** \u2013 See if the company operates online, including store URLs and activities.\n\n***Capital Structure** \u2013 Detailed breakdown of cash, in-kind, and stock capital.\n\n***Partners & Management** \u2013 View partner names, roles, ownership share, and management structure.\n\n**Business Activities*** \u2013 Discover the list of registered commercial activities.\n\n***And Much More***",
+ "docstatus": 0,
+ "doctype": "Onboarding Step",
+ "idx": 1,
+ "is_complete": 0,
+ "is_single": 0,
+ "is_skipped": 0,
+ "modified": "2025-04-15 15:36:57.530672",
+ "modified_by": "Administrator",
+ "name": "Saudi Company Search",
+ "owner": "Administrator",
+ "reference_document": "Saudi Company",
+ "show_form_tour": 0,
+ "show_full_form": 1,
+ "title": "Search Saudi Company By CR National Number",
+ "validate_action": 1
+}

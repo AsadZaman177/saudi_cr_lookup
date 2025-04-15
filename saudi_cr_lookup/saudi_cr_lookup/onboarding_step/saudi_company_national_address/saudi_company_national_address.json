@@ -1,0 +1,21 @@
+{
+ "action": "Create Entry",
+ "action_label": "Convert Now",
+ "creation": "2025-04-15 16:07:44.348021",
+ "description": "***Addresses***\r\n\r\nGet full ***location details*** of a business or entity, and convert into ***Customer***\r\n\r\n**Title** *  \r\n*** Address***\r\n*** Additional Address*** \r\n*** Region**adh***  \r\n*** City**** \r\n*** District**uj Dist***  \r\n*** Street**ahd Rd***  \r\n*** Building Number***  \r\n*** Unit Number**\r\n*** Post Code****  \r\n*** Additional Number***  \r\n*** Coordinates*** \r\n*** Address Status*****\r\n\r\n",
+ "docstatus": 0,
+ "doctype": "Onboarding Step",
+ "idx": 0,
+ "is_complete": 0,
+ "is_single": 0,
+ "is_skipped": 0,
+ "modified": "2025-04-15 16:07:44.348021",
+ "modified_by": "Administrator",
+ "name": "Saudi Company National Address",
+ "owner": "Administrator",
+ "reference_document": "Saudi Company National Address",
+ "show_form_tour": 0,
+ "show_full_form": 1,
+ "title": "Convert Saudi Company into Customer ",
+ "validate_action": 1
+}

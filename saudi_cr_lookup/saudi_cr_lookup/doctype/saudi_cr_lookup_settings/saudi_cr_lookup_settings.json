@@ -17,12 +17,14 @@
    "label": "Saudi CR Lookup Settings"
   },
   {
+   "allow_in_quick_entry": 1,
    "description": "Get the consumer key from wathq.sa",
    "fieldname": "consumer_id",
    "fieldtype": "Data",
    "label": "Consumer ID"
   },
   {
+   "allow_in_quick_entry": 1,
    "description": "Get the consumer secret from wathq.sa",
    "fieldname": "consumer_secret",
    "fieldtype": "Data",
@@ -40,7 +42,7 @@
  "index_web_pages_for_search": 1,
  "issingle": 1,
  "links": [],
- "modified": "2025-04-14 12:41:13.648064",
+ "modified": "2025-04-15 15:12:03.872282",
  "modified_by": "Administrator",
  "module": "Saudi CR Lookup",
  "name": "Saudi CR Lookup Settings",

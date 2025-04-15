@@ -53,6 +53,7 @@
    "search_index": 1
   },
   {
+   "description": "Add CR number starting with (40***)",
    "fieldname": "cr_number",
    "fieldtype": "Data",
    "in_list_view": 1,
@@ -213,7 +214,7 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-04-15 09:58:44.809699",
+ "modified": "2025-04-15 15:11:59.171576",
  "modified_by": "Administrator",
  "module": "Saudi CR Lookup",
  "name": "Saudi Company National Address",

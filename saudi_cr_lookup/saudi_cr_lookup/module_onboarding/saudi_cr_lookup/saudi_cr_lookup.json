@@ -1,0 +1,32 @@
+{
+ "allow_roles": [
+  {
+   "role": "All"
+  }
+ ],
+ "creation": "2025-04-15 15:06:06.305763",
+ "docstatus": 0,
+ "doctype": "Module Onboarding",
+ "documentation_url": "https://botsolutios.tech",
+ "idx": 0,
+ "is_complete": 0,
+ "modified": "2025-04-15 16:08:04.104039",
+ "modified_by": "Administrator",
+ "module": "Saudi CR Lookup",
+ "name": "Saudi CR Lookup",
+ "owner": "Administrator",
+ "steps": [
+  {
+   "step": "Setting API Configuration"
+  },
+  {
+   "step": "Saudi Company Search"
+  },
+  {
+   "step": "Saudi Company National Address"
+  }
+ ],
+ "subtitle": "Simple CR search and Customer Creation",
+ "success_message": "Onboarding Complete",
+ "title": "Lets setup Saudi CR Lookup"
+}

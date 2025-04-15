@@ -1,6 +1,6 @@
 {
  "charts": [],
- "content": "[{\"id\":\"dhCn0yzBkL\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Saudi CR Lookup</span>\",\"col\":12}},{\"id\":\"9YrUaeF1hX\",\"type\":\"card\",\"data\":{\"card_name\":\"Configure API settings\",\"col\":4}},{\"id\":\"RT1G0YHGnw\",\"type\":\"card\",\"data\":{\"card_name\":\"Saudi National CR Lookup\",\"col\":4}},{\"id\":\"mtisU5fNt9\",\"type\":\"card\",\"data\":{\"card_name\":\"Saudi Company National Address\",\"col\":4}}]",
+ "content": "[{\"id\":\"dhCn0yzBkL\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Saudi CR Lookup</span>\",\"col\":12}},{\"id\":\"9YrUaeF1hX\",\"type\":\"card\",\"data\":{\"card_name\":\"Configure API settings\",\"col\":4}},{\"id\":\"RT1G0YHGnw\",\"type\":\"card\",\"data\":{\"card_name\":\"Saudi National CR Lookup\",\"col\":4}},{\"id\":\"mtisU5fNt9\",\"type\":\"card\",\"data\":{\"card_name\":\"Saudi Company National Address\",\"col\":4}},{\"id\":\"3BKw70GdMX\",\"type\":\"onboarding\",\"data\":{\"onboarding_name\":\"Saudi CR Lookup\",\"col\":12}}]",
  "creation": "2025-04-14 11:21:07.167239",
  "custom_blocks": [],
  "docstatus": 0,
@@ -74,7 +74,7 @@
    "type": "Link"
   }
  ],
- "modified": "2025-04-14 12:36:26.543391",
+ "modified": "2025-04-15 16:15:19.088669",
  "modified_by": "Administrator",
  "module": "Saudi CR Lookup",
  "name": "Saudi CR Lookup",
